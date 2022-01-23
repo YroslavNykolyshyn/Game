@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="почати">Start</string>
+    <string name="назад">Back</string>
+    <string name="level">Level:</string>
+    <string name="level1">Level 1</string>
+    <string name="text_desription">Choose player.\n</string>
+    <string name="продовжити">Continue</string>
+</resources>
