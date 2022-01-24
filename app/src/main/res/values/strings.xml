@@ -4,6 +4,7 @@
     <string name="назад">Back</string>
     <string name="level">Level:</string>
     <string name="level1">Level 1</string>
-    <string name="text_desription">Choose player.\n</string>
+    <string name="text_desription">Вибиріть число яке більше.\n</string>
+    <string name="text_descriptionEnd">"Вітаю! Ви пройшли рівень"</string>
     <string name="продовжити">Continue</string>
 </resources>
