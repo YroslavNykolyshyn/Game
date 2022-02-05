@@ -3,8 +3,50 @@
     <string name="почати">Start</string>
     <string name="назад">Back</string>
     <string name="level">Level:</string>
+    <string name="levels"> Вітаю друже! \n
+        Ти розумієшся в футболі? Тоді ця гра саме для тебе! \n
+        В грі є 6 розділів. Перший розділ базується на знанні світового футболу. \n
+        Якщо ти його пройдеш наступні розділи будуть для тебе дуже легкими. \n
+        У спіхів в грі!</string>
     <string name="level1">Level 1</string>
-    <string name="text_desription">Вибиріть число яке більше.\n</string>
-    <string name="text_descriptionEnd">"Вітаю! Ви пройшли рівень"</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="level4">Level 4</string>
+    <string name="level5">Level 5</string>
+    <string name="text_desription">Вибиріть футболіста який отримував золотий мяч</string>
+    <string name="text_desription2">
+        Вибиріть між двома футболістами , \n
+        граця який забив більше голів \n
+        за національну збірну \n</string>
+    <string name="text_desription3">
+        Вибиріть між двома футболістами , \n
+        граця який забив більше голів \n </string>
+    <string name="text_desription4">Вибиріть між двома футболістами , \n
+        граця який провів більше офіційних матчів \n
+    </string>
+    <string name="text_desription5">Вибиріть між двома футболістами , \n
+        граця який здобув більше трофеїв \n
+    </string>
+    <string name="text_descriptionEnd">Вітаю! \n
+        Ти пройшов рівень.Цей рівень був надто легким для тебе. \n
+        А що ти скажеш про рівень №2 \n</string>
+    <string name="text_descriptionEnd2">Вітаю! \n
+        Ти пройшов рівень.Цей рівень був надто легким для тебе. \n
+        А що ти скажеш про рівень №3 \n</string>
+    <string name="text_descriptionEnd3">Вітаю! \n
+        Ти пройшов рівень.Цей рівень був надто легким для тебе. \n
+        А що ти скажеш про рівень №4 \n</string>
+    <string name="text_descriptionEnd4">Вітаю! \n
+        Ти пройшов рівень.Цей рівень був надто легким для тебе. \n
+        А що ти скажеш про рівень №5 \n</string>
+    <string name="text_descriptionEnd5">Вітаю! \n
+        Ти пройшов зоділ.Наступні розділи появляться згодом \n</string>
+    <string name="text_descriptionsoon">Наступні розділи появляться згодом \n</string>
     <string name="продовжити">Continue</string>
+    <string name="world">World</string>
+    <string name="liga_1">Liga 1</string>
+    <string name="seria_a">Seria A</string>
+    <string name="premierLiga">Premier League</string>
+    <string name="laLiga">La Liga</string>
+    <string name="bundesLiga">Bundesliga</string>
 </resources>

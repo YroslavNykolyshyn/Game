@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/fon2" />
+        app:srcCompat="@drawable/universal_backgraund" />
 
     <LinearLayout
         android:id="@+id/container1"
@@ -39,13 +39,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginRight="10dp"
-                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:background="@drawable/backarrow"
                     android:paddingLeft="4dp"
-                    android:paddingRight="4dp"
-                    android:text="@string/назад"
-                    android:textAllCaps="false"
-                    android:textColor="@color/green"
-                    android:textSize="24dp" />
+                    android:paddingRight="4dp" />
 
                 <TextView
                     android:id="@+id/text_levels"
@@ -54,7 +50,7 @@
                     android:layout_weight="1"
                     android:gravity="right"
                     android:text="@string/level"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="24sp" />
             </LinearLayout>
 
@@ -134,60 +130,70 @@
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point11"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point12"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point13"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point14"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point15"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point16"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point17"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point18"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point19"
                     android:layout_width="wrap_content"
                     android:layout_height="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/style_points" />
+
                 <TextView
                     android:id="@+id/point20"
                     android:layout_width="wrap_content"
@@ -210,9 +216,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="320dp"
                     android:layout_marginRight="5dp"
-                    android:scaleType="centerCrop"
-                    android:background="@drawable/style_img_universal"
                     android:layout_weight="1"
+                    android:background="@drawable/style_img_universal"
+                    android:scaleType="centerCrop"
                     android:src="@drawable/fon_left_right" />
 
                 <ImageView
@@ -220,9 +226,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="320dp"
                     android:layout_marginLeft="5dp"
-                    android:scaleType="centerCrop"
-                    android:background="@drawable/style_img_universal"
                     android:layout_weight="1"
+                    android:background="@drawable/style_img_universal"
+                    android:scaleType="centerCrop"
                     android:src="@drawable/fon_left_right" />
             </LinearLayout>
 
@@ -230,8 +236,8 @@
                 android:id="@+id/line4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="horizontal"
-                android:layout_marginTop="10dp" >
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
 
 
                 <TextView
@@ -241,8 +247,8 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="TextView"
-                    android:textColor="@color/white"
-                    android:textSize="30dp" />
+                    android:textColor="@color/black"
+                    android:textSize="20dp" />
 
                 <TextView
                     android:id="@+id/textView_right"
@@ -251,8 +257,8 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="TextView"
-                    android:textColor="@color/white"
-                    android:textSize="30dp" />
+                    android:textColor="@color/black"
+                    android:textSize="20dp" />
             </LinearLayout>
 
         </LinearLayout>
